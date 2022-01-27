@@ -10,7 +10,7 @@
 <img width="500" height="300" src="https://user-images.githubusercontent.com/56986643/151454921-01b9ef01-98f8-4de1-9f8f-e6c4301d9645.png">
 
 #### Edge Sharpening
-<img width="500" height="300" src="(https://user-images.githubusercontent.com/56986643/151455737-20a4d3a2-240f-46ca-a6c9-4681bfb5bb55.png">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/56986643/151455737-20a4d3a2-240f-46ca-a6c9-4681bfb5bb55.png">
 
 #### Laplacian Filter
 <img width="500" height="300" src="https://user-images.githubusercontent.com/56986643/151455818-01fb822b-414e-4fc6-a0ea-cf5a746126d6.png">
