@@ -19,4 +19,4 @@
 <img width="500" height="300" src="https://user-images.githubusercontent.com/56986643/151455861-28810c78-e873-491a-aeeb-d61ec8d07de8.png">
 
 #### Salt Pepper Noise
-<img width="500" height="300" src=https://user-images.githubusercontent.com/56986643/151455948-c736e993-7bf6-451f-b256-6d65a227797a.png">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/56986643/151455948-c736e993-7bf6-451f-b256-6d65a227797a.png">
