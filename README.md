@@ -1,7 +1,7 @@
 # image-processing
 
 #### Binarization
-![img3](https://user-images.githubusercontent.com/56986643/151455167-e7a9d3e5-a55a-4844-bf70-7e113def6dd3.png)
+<img width="150" height="150" src="https://user-images.githubusercontent.com/56986643/151455167-e7a9d3e5-a55a-4844-bf70-7e113def6dd3.png">
 
 #### RGB to Gray
 ![img](https://user-images.githubusercontent.com/56986643/151454750-7d8a3b36-7c72-4e76-96f1-154be9d48994.png)
